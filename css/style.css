@@ -1,5 +1,9 @@
+body {
+	background-color: #99b3ff;
+}
 header {
 	background-color: black;
+	margin-top: 50px;
 }
 h1 {
 	font-size: 500%;
@@ -8,4 +12,8 @@ h1 {
 }
 #biopic{
 	display: none;
+}
+footer {
+	clear: both;
+	background-color: #99b3ff !important;
 }
