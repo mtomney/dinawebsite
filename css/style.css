@@ -10,10 +10,16 @@ h1 {
 	color: white;
 	display: none;
 }
-#biopic{
+#biopic {
 	display: none;
 }
 footer {
 	clear: both;
 	background-color: #99b3ff !important;
+}
+
+@media (max-width: 991px) {
+	#biopic img {
+		display: none;
+	}
 }
